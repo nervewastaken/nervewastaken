@@ -9,9 +9,11 @@
 
 - 📫 How to reach me **krishverma2004@gmail.com**
 
+- ⚡ Fun fact **I really like contemporary history (I will debate with you all day)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krish verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish verma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krish-verma-607408256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-verma-607408256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
