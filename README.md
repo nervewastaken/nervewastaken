@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nervewastaken&show_icons=true&locale=en&layout=compact" alt="nervewastaken" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nervewastaken&show_icons=true&locale=en" alt="nervewastaken" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nervewastaken&" alt="nervewastaken" /></p>
