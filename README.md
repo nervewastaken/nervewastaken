@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Verma</h1>
 <h3 align="center">I love working on new tech!</h3>
 
-- 🔭 I’m currently working on [Mini-Projects](https://github.com/nervewastaken/Mini-Projects)
+- 🔭 I’m currently working on [Restaurant-Ordering](https://github.com/nervewastaken/Restaurant-Ordering)
 
 - 🌱 I’m currently learning **Machine Learning, AI, DevOps**
 
